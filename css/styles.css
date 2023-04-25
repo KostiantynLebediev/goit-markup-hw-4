@@ -173,7 +173,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("../images/work/people-office\ 1.jpg");
+    url(../images/people-office.jpg);
 
   background-position: center;
   background-size: cover;
@@ -343,10 +343,12 @@ img {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.02em;
+
+  margin-bottom: 8px;
 }
 
 .team-descr {
-  padding: 32px 16px;
+  padding: 32px 0px;
   border-radius: 0px 0px 4px 4px;
 }
 
@@ -354,7 +356,7 @@ img {
 .social-icon-list {
   display: flex;
   justify-content: center;
-  gap: 40px;
+  gap: 24px;
 }
 .social-icon-list-item {
   width: 40px;
