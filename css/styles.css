@@ -438,7 +438,7 @@ img {
 
 /*==ICONS COMPANY==*/
 .customers-link {
-	color: var(--customer-color);
+	color: var(--border-color);
 
 	height: 100%;
 
