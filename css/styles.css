@@ -140,7 +140,7 @@ img {
 	padding-bottom: 24px;
 }
 
-.list .link {
+.list .nav-link {
 	color: var(--dark-color);
 	font-weight: 500;
 	font-size: 16px;
@@ -472,7 +472,7 @@ img {
 	background-color: var(--dark-color);
 }
 
-.footer-flex {
+.footer-flex.container {
 	display: flex;
 	align-items: baseline;
 	gap: 120px;
@@ -480,7 +480,11 @@ img {
 
 
 /*.footer.container {
+	display: flex;
+	align-items: baseline;
+	gap: 120px;
 }*/
+
 .footer-logo {
 	font-family: "Raleway", sans-serif;
 	font-style: normal;
